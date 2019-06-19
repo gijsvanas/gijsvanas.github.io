@@ -3,7 +3,8 @@ html{
 }
 
 body{
-  background: linear-gradient(to bottom, #2068db 0%, #9999ff 100%);!important;
+  /* background: linear-gradient(to bottom, #2068db 0%, #9999ff 100%);!important; */
+  background-color: #2068db!important;
   /* background-image: url("images/black-fade.jpg"); */
    max-width: 100%;
 }
